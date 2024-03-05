@@ -1,0 +1,267 @@
+[06-Nov-2020 01:31:33 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 128
+[06-Nov-2020 11:54:56 UTC] PHP Warning:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP) in /home3/nbasxkmy/public_html/wp-content/themes/zadk/functions.php on line 73
+[06-Nov-2020 11:55:16 UTC] PHP Warning:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP) in /home3/nbasxkmy/public_html/wp-content/themes/zadk/functions.php on line 73
+[09-Nov-2020 01:26:23 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 128
+[12-Nov-2020 01:29:58 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 128
+[15-Nov-2020 01:33:18 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 128
+[18-Nov-2020 01:25:34 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Nov-2020 01:29:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-Nov-2020 01:27:01 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Nov-2020 01:27:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Dec-2020 01:25:44 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Dec-2020 01:25:45 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Dec-2020 14:49:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=319909 in /home3/nbasxkmy/public_html/wp-includes/wp-db.php on line 2024
+[04-Dec-2020 14:52:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=321441 in /home3/nbasxkmy/public_html/wp-includes/wp-db.php on line 2024
+[06-Dec-2020 01:36:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-Dec-2020 01:26:04 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 128
+[15-Dec-2020 01:35:48 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Dec-2020 01:26:26 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Dec-2020 01:26:26 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-Dec-2020 01:31:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Dec-2020 01:25:29 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Dec-2020 01:27:18 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Jan-2021 01:34:32 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Jan-2021 01:37:59 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Jan-2021 01:24:50 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Jan-2021 01:26:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Jan-2021 01:45:30 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-Jan-2021 01:31:33 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Jan-2021 01:51:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Jan-2021 01:29:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-Jan-2021 01:32:11 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[01-Feb-2021 01:29:28 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Feb-2021 01:28:59 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Feb-2021 01:26:22 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Feb-2021 01:35:38 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Feb-2021 01:27:55 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Feb-2021 01:26:23 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Feb-2021 01:31:15 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Feb-2021 01:25:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Feb-2021 01:30:10 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Feb-2021 01:28:26 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Mar-2021 01:31:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Mar-2021 01:31:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[06-Mar-2021 01:28:21 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-Mar-2021 01:31:16 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[12-Mar-2021 01:35:01 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[15-Mar-2021 01:26:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Mar-2021 01:26:59 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-Mar-2021 01:24:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Mar-2021 01:32:09 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-Mar-2021 01:25:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Mar-2021 01:42:38 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Apr-2021 01:34:16 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Apr-2021 01:25:37 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Apr-2021 01:29:45 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Apr-2021 01:37:01 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Apr-2021 01:28:34 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Apr-2021 01:28:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-Apr-2021 01:25:42 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-Apr-2021 01:28:15 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Apr-2021 01:37:18 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Apr-2021 01:26:09 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-Apr-2021 01:36:15 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-May-2021 01:27:40 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-May-2021 01:29:06 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-May-2021 01:26:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-May-2021 01:34:06 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-May-2021 01:26:04 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-May-2021 01:28:00 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-May-2021 01:28:36 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-May-2021 01:25:46 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-May-2021 01:24:54 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-May-2021 01:35:36 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[01-Jun-2021 01:24:58 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Jun-2021 01:25:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Jun-2021 01:41:49 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Jun-2021 01:33:23 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Jun-2021 01:28:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Jun-2021 01:31:38 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Jun-2021 01:28:45 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Jun-2021 01:34:13 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Jun-2021 01:25:56 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Jun-2021 01:31:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Jul-2021 01:26:16 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Jul-2021 01:26:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Jul-2021 01:37:49 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Jul-2021 01:33:17 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Jul-2021 01:30:30 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Jul-2021 01:33:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Jul-2021 01:39:17 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Jul-2021 01:49:37 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Jul-2021 01:33:53 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[31-Jul-2021 01:24:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Aug-2021 01:29:51 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[06-Aug-2021 01:27:29 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-Aug-2021 01:35:02 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[12-Aug-2021 01:27:06 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[15-Aug-2021 01:28:03 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Aug-2021 01:28:17 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-Aug-2021 01:39:45 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Aug-2021 01:30:06 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-Aug-2021 01:33:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Aug-2021 01:30:54 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Sep-2021 01:56:36 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Sep-2021 01:25:59 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Sep-2021 01:29:06 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Sep-2021 01:26:44 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Sep-2021 01:26:39 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 128
+[17-Sep-2021 01:26:29 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-Sep-2021 01:29:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Sep-2021 01:26:53 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Sep-2021 01:26:28 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-Sep-2021 01:32:24 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Oct-2021 01:26:28 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Oct-2021 01:40:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Oct-2021 01:25:46 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Oct-2021 01:31:05 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Oct-2021 01:31:21 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-Oct-2021 01:27:19 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-Oct-2021 01:34:48 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Oct-2021 01:27:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Oct-2021 01:32:55 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-Oct-2021 01:29:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[01-Nov-2021 01:26:11 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Nov-2021 01:28:59 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Nov-2021 01:26:24 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Nov-2021 01:42:10 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Nov-2021 01:49:19 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Nov-2021 01:27:13 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Nov-2021 01:26:34 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Nov-2021 01:30:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Nov-2021 01:34:44 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Nov-2021 01:32:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[01-Dec-2021 01:38:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Dec-2021 01:33:03 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Dec-2021 01:30:46 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Dec-2021 01:27:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Dec-2021 01:28:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Dec-2021 01:38:45 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Dec-2021 01:44:13 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Dec-2021 01:30:50 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Dec-2021 01:28:32 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Dec-2021 01:25:56 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[31-Dec-2021 01:33:36 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Jan-2022 01:27:46 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[06-Jan-2022 01:56:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-Jan-2022 01:37:13 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[12-Jan-2022 01:27:34 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[15-Jan-2022 01:28:42 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Jan-2022 01:26:48 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-Jan-2022 01:28:43 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Jan-2022 01:40:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-Jan-2022 01:47:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Jan-2022 01:27:23 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Feb-2022 01:26:22 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Feb-2022 01:29:12 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Feb-2022 01:30:00 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Feb-2022 01:36:06 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Feb-2022 01:30:45 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-Feb-2022 01:26:21 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-Feb-2022 01:54:24 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Feb-2022 01:31:12 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Feb-2022 01:31:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[01-Mar-2022 01:33:34 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Mar-2022 01:27:17 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Mar-2022 01:36:22 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Mar-2022 01:29:47 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Mar-2022 01:35:39 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Mar-2022 01:31:29 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Mar-2022 01:26:51 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Mar-2022 01:31:12 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Mar-2022 01:30:31 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Mar-2022 01:31:14 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[31-Mar-2022 01:38:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Apr-2022 01:27:23 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[06-Apr-2022 01:27:22 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-Apr-2022 01:34:29 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[12-Apr-2022 01:34:00 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[15-Apr-2022 01:28:07 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Apr-2022 01:30:17 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-Apr-2022 01:25:39 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Apr-2022 01:34:46 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-Apr-2022 01:36:51 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Apr-2022 01:28:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-May-2022 01:39:49 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[06-May-2022 01:33:28 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-May-2022 01:24:47 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[12-May-2022 01:27:28 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[15-May-2022 01:25:32 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-May-2022 01:30:40 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-May-2022 01:37:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-May-2022 01:26:37 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-May-2022 01:29:46 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-May-2022 01:25:03 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Jun-2022 01:26:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Jun-2022 01:44:51 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Jun-2022 01:29:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Jun-2022 01:47:47 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Jun-2022 01:26:31 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-Jun-2022 01:37:12 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-Jun-2022 01:29:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Jun-2022 01:39:35 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Jun-2022 01:28:10 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-Jun-2022 01:26:30 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[02-Jul-2022 01:43:59 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Jul-2022 01:25:54 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[08-Jul-2022 01:32:58 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[11-Jul-2022 01:31:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[14-Jul-2022 01:30:17 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[17-Jul-2022 01:30:55 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[20-Jul-2022 01:35:20 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[23-Jul-2022 01:26:01 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[26-Jul-2022 01:27:56 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[29-Jul-2022 01:28:29 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[01-Aug-2022 01:24:57 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[04-Aug-2022 01:30:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[07-Aug-2022 01:37:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[10-Aug-2022 01:38:53 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Aug-2022 01:29:54 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[16-Aug-2022 01:25:41 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[19-Aug-2022 01:37:05 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[22-Aug-2022 01:38:03 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[25-Aug-2022 01:27:04 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[28-Aug-2022 01:42:58 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Sep-2022 01:27:31 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[06-Sep-2022 01:25:52 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[09-Sep-2022 01:25:56 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[12-Sep-2022 01:27:18 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[15-Sep-2022 01:34:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[18-Sep-2022 01:30:22 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[21-Sep-2022 01:25:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[24-Sep-2022 01:28:07 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[27-Sep-2022 01:30:38 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[30-Sep-2022 01:33:31 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[03-Oct-2022 01:26:00 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home3/nbasxkmy/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[05-Dec-2022 14:15:38 UTC] WordPress database error Table 'nbasxkmy_zadk.com.zadk2020_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM zadk2020_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-12-05 14:15:38' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\NetworkCache->get, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[05-Dec-2022 14:15:38 UTC] WordPress database error Table 'nbasxkmy_zadk.com.zadk2020_aioseo_cache' doesn't exist for query INSERT INTO zadk2020_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1670336138;', `expiration` = '2022-12-06 14:15:38', `created` = '2022-12-05 14:15:38', `updated` = '2022-12-05 14:15:38'
+ON DUPLICATE KEY UPDATE `value` = 'i:1670336138;', `expiration` = '2022-12-06 14:15:38', `updated` = '2022-12-05 14:15:38'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\NetworkCache->update, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[05-Dec-2022 14:15:38 UTC] WordPress database error Table 'nbasxkmy_zadk.com.zadk2020_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM zadk2020_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-12-05 14:15:38' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[02-Feb-2023 14:56:02 UTC] PHP Warning:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP) in /home3/nbasxkmy/public_html/wp-content/themes/zadk/functions.php on line 73
+[02-Feb-2023 14:56:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Dfd_Theme_Helpers' not found in /home3/nbasxkmy/public_html/wp-content/plugins/dfd-extensions/vc_custom/dfd_vc_addons.php:825
+Stack trace:
+#0 /home3/nbasxkmy/public_html/wp-content/plugins/dfd-extensions/dfd_extensions.php(142): require_once()
+#1 /home3/nbasxkmy/public_html/wp-includes/class-wp-hook.php(308): Dfd_Theme_extensions->addVcCustomElements('')
+#2 /home3/nbasxkmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /home3/nbasxkmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home3/nbasxkmy/public_html/wp-settings.php(595): do_action('after_setup_the...')
+#5 /home3/nbasxkmy/public_html/wp-config.php(96): require_once('/home3/nbasxkmy...')
+#6 /home3/nbasxkmy/public_html/wp-load.php(50): require_once('/home3/nbasxkmy...')
+#7 /home3/nbasxkmy/public_html/wp-admin/admin.php(34): require_once('/home3/nbasxkmy...')
+#8 /home3/nbasxkmy/public_html/wp-admin/customize.php(13): require_once('/home3/nbasxkmy...')
+#9 {main}
+  thrown in /home3/nbasxkmy/public_html/wp-content/plugins/dfd-extensions/vc_custom/dfd_vc_addons.php on line 825

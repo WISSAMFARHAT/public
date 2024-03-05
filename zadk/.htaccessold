@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^zadk\.com\.sa$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.zadk\.com\.sa$
+RewriteRule ^/?$ "http\:\/\/www\.zadk\.com\.sa\/" [R=301,L]
+

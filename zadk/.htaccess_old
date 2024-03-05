@@ -1,0 +1,140 @@
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+	# Ban Hosts - Security > Settings > Banned Users
+	SetEnvIF REMOTE_ADDR "^5\.188\.210\.47$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^5\.188\.210\.47$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^5\.188\.210\.47$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^132\.232\.68\.172$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^132\.232\.68\.172$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^132\.232\.68\.172$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^121\.42\.154\.116$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^121\.42\.154\.116$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^121\.42\.154\.116$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^111\.231\.194\.239$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^111\.231\.194\.239$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^111\.231\.194\.239$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^148\.70\.239\.50$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^148\.70\.239\.50$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^148\.70\.239\.50$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^5\.188\.62\.25$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^5\.188\.62\.25$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^5\.188\.62\.25$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^151\.80\.167\.84$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^151\.80\.167\.84$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^151\.80\.167\.84$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^5\.45\.69\.4$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^5\.45\.69\.4$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^5\.45\.69\.4$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^5\.188\.62\.147$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^5\.188\.62\.147$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^5\.188\.62\.147$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^134\.249\.141\.83$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^134\.249\.141\.83$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^134\.249\.141\.83$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^158\.69\.158\.103$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^158\.69\.158\.103$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^158\.69\.158\.103$" DenyAccess
+
+	<IfModule mod_authz_core.c>
+		<RequireAll>
+			Require all granted
+			Require not env DenyAccess
+			Require not ip 5.188.210.47
+			Require not ip 132.232.68.172
+			Require not ip 121.42.154.116
+			Require not ip 111.231.194.239
+			Require not ip 148.70.239.50
+			Require not ip 5.188.62.25
+			Require not ip 151.80.167.84
+			Require not ip 5.45.69.4
+			Require not ip 5.188.62.147
+			Require not ip 134.249.141.83
+			Require not ip 158.69.158.103
+		</RequireAll>
+	</IfModule>
+	<IfModule !mod_authz_core.c>
+		Order allow,deny
+		Allow from all
+		Deny from env=DenyAccess
+		Deny from 5.188.210.47
+		Deny from 132.232.68.172
+		Deny from 121.42.154.116
+		Deny from 111.231.194.239
+		Deny from 148.70.239.50
+		Deny from 5.188.62.25
+		Deny from 151.80.167.84
+		Deny from 5.45.69.4
+		Deny from 5.188.62.147
+		Deny from 134.249.141.83
+		Deny from 158.69.158.103
+	</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+RewriteEngine on
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+# Wordfence WAF
+<Files ".user.ini">
+<IfModule mod_authz_core.c>
+	Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order deny,allow
+	Deny from all
+</IfModule>
+</Files>
+
+# END Wordfence WAF
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php5_module>
+   php_flag asp_tags Off
+   php_flag display_errors Off
+   php_value max_execution_time 30
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 1024M
+   php_value post_max_size 50M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php56"
+   php_value upload_max_filesize 50M
+   php_flag zlib.output_compression Off
+</IfModule>
+<IfModule lsapi_module>
+   php_flag asp_tags Off
+   php_flag display_errors Off
+   php_value max_execution_time 30
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 1024M
+   php_value post_max_size 50M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php56"
+   php_value upload_max_filesize 50M
+   php_flag zlib.output_compression Off
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
